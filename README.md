@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://diego-eco.github.io/" target="_blank">Aakarsh</a>! 👋
+### Hi there, I'm <a href="https://diego-eco.github.io/" target="_blank">Diego</a>! 👋
 
 Economist with experience in program evaluation, applied microeconomics, industrial organization, and applied econometrics. Interested in regulation and competition in digital markets, digital economy and labour markets. Data analysis and visualization skills. Passionate about using economic tools to promote development and reduce inequality in our society
 
