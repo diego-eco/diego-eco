@@ -18,9 +18,9 @@ Economist with experience in program evaluation, applied microeconomics, industr
 
 ### Languages and Tools:
 
-<a href="https://www.r-project.org/" target="_blank"> <img align="left" alt="R" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.r-project.org/" target="_blank"> <img align="left" alt="R" width="26px" src="https://github.com/diego-eco/diego-eco/blob/main/icons/Rlogo.png?raw=true"/> </a>
 <a href="https://www.stata.com/" target="_blank"> <img align="left" alt="Stata" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.r-project.org/" target="_blank"> <img align="left" alt="R" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img align="left" alt="R" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
 
