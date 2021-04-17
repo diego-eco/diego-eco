@@ -1,11 +1,12 @@
 
 ### Hi there, I'm <a href="https://diego-eco.github.io/" target="_blank">Diego</a>! 👋
 
-Economist with experience in program evaluation, applied microeconomics, industrial organization, and applied econometrics. Interested in regulation and competition in digital markets, digital economy and labour markets. Data analysis and visualization skills. Passionate about using economic tools to promote development and reduce inequality in our society
+Economist with experience in program evaluation, applied microeconomics, industrial organization, and applied econometrics. Interested in regulation and competition in digital markets, digital economy and labour markets. Data analysis and visualization skills. Passionate about using economic tools to promote development and reduce inequality in our society.  
 
-- 🌱 I’m currently learning Python, Tableau
+<a href="https://diego-eco.github.io/Diego_Lopez_Tamayo_Resume.pdf" target="_blank">CV 2021 English</a>!
 
-<br />
+- I’m currently learning Python, Tableau
+
 <br />
 
 ## Find me around the web 🌎:
@@ -19,7 +20,7 @@ Economist with experience in program evaluation, applied microeconomics, industr
 ### Languages and Tools:
 
 <a href="https://www.r-project.org/" target="_blank"> <img align="left" alt="R" width="26px" src="https://github.com/diego-eco/diego-eco/blob/main/icons/Rlogo.png?raw=true"/> </a>
-<a href="https://www.stata.com/" target="_blank"> <img align="left" alt="Stata" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.stata.com/" target="_blank"> <img align="left" alt="Stata" width="26px" src="https://github.com/diego-eco/diego-eco/blob/main/icons/stata.png?raw=true"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img align="left" alt="R" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 
