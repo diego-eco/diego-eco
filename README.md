@@ -3,7 +3,7 @@
 
 Economist with experience in program evaluation, applied microeconomics, industrial organization, and applied econometrics. Interested in regulation and competition in digital markets, digital economy and labour markets. Data analysis and visualization skills. Passionate about using economic tools to promote development and reduce inequality in our society.  
 
-<a href="https://diego-eco.github.io/Diego_Lopez_Tamayo_Resume.pdf" target="_blank">CV 2021 English</a>
+<a href="https://diego-eco.github.io/Diego_Lopez_Tamayo_Resume.pdf" target="_blank">CV 2022 English</a>
 
 - I’m currently learning Python, Tableau
 
