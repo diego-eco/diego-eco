@@ -1,7 +1,7 @@
 
 ### Hi there, I'm <a href="https://diego-eco.github.io/" target="_blank">Diego</a>! 👋
 
-Economist with experience in sector analysis and forecasts for energy, financial, manufacturing, transportation, telecommunications and foreign trade sectors. Focus on industrial organization, network economics, regulated sectors, economic competition and digital markets. Passionate about employing economic tools and data to promote development and reduce inequality in our society.
+Economist with experience in sector analysis and forecasts for energy, financial, manufacturing, transportation, telecommunications and foreign trade. Focus on industrial organization, network economics, regulated sectors, economic competition and digital markets. Passionate about employing economic tools and data to promote development and reduce inequality in our society.
 
 <a href="https://diego-eco.github.io/Diego_Lopez_Tamayo_Resume.pdf" target="_blank">CV 2024 English</a>
 
